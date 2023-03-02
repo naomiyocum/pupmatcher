@@ -11,6 +11,7 @@ alembic = "^1.9.4"
 requests = "^2.28.2"
 pytest = "^7.2.1"
 fastapi = {extras = ["all"], version = "^0.92.0"}
+uvicorn = "^0.20.0"
 
 
 [build-system]
